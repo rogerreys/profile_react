@@ -15,9 +15,9 @@ function About() {
         return (
           <div className="space-y-4">
             {details.experience.map((exp, idx) => (
-              <div key={idx} className="bg-gradient-to-r from-pink-900/30 to-pink-800/10 p-5 rounded-xl border border-pink-900/50">
+              <div key={idx} className="bg-gradient-to-r from-pink-900/60 to-pink-800/10 p-5 rounded-xl border border-pink-900/50">
                 <div className="flex items-start gap-4">
-                  <div className="p-3 bg-pink-800/50 rounded-lg">
+                  <div className="p-3 bg-pink-800/1 rounded-lg">
                     <FaBriefcase className="text-2xl text-pink-200" />
                   </div>
                   <div>
@@ -34,9 +34,9 @@ function About() {
         return (
           <div className="space-y-4">
             {details.education.map((edu, idx) => (
-              <div key={idx} className="bg-gradient-to-r from-pink-900/30 to-pink-800/10 p-5 rounded-xl border border-pink-900/50">
+              <div key={idx} className="bg-gradient-to-r from-pink-900/60 to-pink-800/10 p-5 rounded-xl border border-pink-900/50">
                 <div className="flex items-start gap-4">
-                  <div className="p-3 bg-pink-800/50 rounded-lg">
+                  <div className="p-3 bg-pink-800/1 rounded-lg">
                     <FaGraduationCap className="text-2xl text-pink-200" />
                   </div>
                   <div>
@@ -73,9 +73,9 @@ function About() {
       <div className="bg-gradient-to-br from-zinc-900 to-zinc-800 rounded-2xl shadow-xl overflow-hidden">
         <div className="flex flex-col md:flex-row">
           {/* Profile Image */}
-          <div className="relative p-8 md:p-10 bg-gradient-to-b from-pink-900/30 to-pink-800/10 flex-shrink-0 flex flex-col items-center">
+          <div className="relative p-8 md:p-10 bg-gradient-to-b from-pink-900/80 to-pink-800/10 flex-shrink-0 flex flex-col items-center">
             <div className="relative group">
-              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-pink-600 to-amber-500 opacity-70 blur-xl group-hover:opacity-90 transition-all duration-500"></div>
+              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-pink-800 to-amber-500 opacity-70 blur-xl group-hover:opacity-90 transition-all duration-500"></div>
               <img 
                 src={perfil} 
                 alt="Perfil" 
@@ -103,7 +103,7 @@ function About() {
             
             <a 
               href={`mailto:${details.social.gmail}`}
-              className="mt-6 px-6 py-2 bg-pink-800/50 text-white rounded-full border border-pink-700 hover:bg-pink-700/70 transition-all flex items-center gap-2"
+              className="mt-6 px-6 py-2 bg-pink-800/1 text-white rounded-full border border-pink-700 hover:bg-pink-700/70 transition-all flex items-center gap-2"
             >
               <FaEnvelope /> Contáctame
             </a>
