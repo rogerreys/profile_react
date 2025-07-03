@@ -2,6 +2,43 @@
   "aboutMe": {
     "title": "Acerca de mi",
     "description": "<p>¡Hola! Soy <strong>Roger Steven Reyes Medina</strong>, un apasionado desarrollador fullstack de Quito, Ecuador. Me encanta aprender y explorar nuevas tecnologías para crear productos digitales que generen impacto.</p><p>Mi enfoque está en el desarrollo de aplicaciones SaaS, automatización de procesos y soluciones web personalizadas. Creo en el poder de la colaboración, el código limpio y las ideas que resuelven problemas reales.</p><p>Estoy construyendo mi camino como emprendedor tecnológico mientras desarrollo productos propios, participo en proyectos creativos y comparto conocimiento.</p>",
+    "details": {
+      "description": "Estudios en Ingeniería Informática con enfoque en desarrollo web y automatización.",
+      "quickInfo": [
+        { "label": "Ubicación", "value": "Quito, Ecuador" },
+        { "label": "Edad", "value": "25 años" },
+        { "label": "Lenguaje", "value": "Español" },
+        { "label": "Disponibilidad", "value": "Disponible" }
+      ],
+      "experience": [
+        {
+          "role": "Desarrollador Fullstack",
+          "company": "Empresa de Software",
+          "period": "2022 - Presente",
+          "description": "Desarrollo de aplicaciones web y móviles utilizando React y Node.js. Implementación de soluciones SaaS y automatización de procesos con n8n."
+        },
+        {
+          "role": "Desarrollador Junior",
+          "company": "Empresa de Automatización",
+          "period": "2021 - 2022",
+          "description": "Desarrollo de herramientas de automatización con n8n y creación de soluciones web personalizadas."
+        }
+      ],
+      "education": [
+        {
+          "degree": "Licenciatura en Ingeniería Informática",
+          "institution": "Universidad de Quito",
+          "period": "2018 - 2022",
+          "description": "Estudios en Ingeniería Informática con enfoque en desarrollo web y automatización."
+        }
+      ],
+      "social": {
+        "github": "https://github.com/rogerreys",
+        "linkedin": "https://www.linkedin.com/in/rogerreys/",
+        "twitter": "https://twitter.com/roger_reys",
+        "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=r_reys@gmail.com"
+      }
+    },
     "img": "assets/img/perfil.jpg"
   },
   "skillscompuestos": {
