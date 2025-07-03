@@ -1,7 +1,6 @@
 import React from 'react';
 import profile from '../data/profile.json';
 import perfil from '../assets/img/perfil.jpg';
-import './About.css';
 
 function About() {
   const { title, description } = profile.aboutMe;
