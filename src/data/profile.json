@@ -4,8 +4,7 @@
     "description": "<p>¡Hola! Soy <strong>Roger Steven Reyes Medina</strong>, un apasionado desarrollador fullstack de Quito, Ecuador. Me encanta aprender y explorar nuevas tecnologías para crear productos digitales que generen impacto.</p><p>Mi enfoque está en el desarrollo de aplicaciones SaaS, automatización de procesos y soluciones web personalizadas. Creo en el poder de la colaboración, el código limpio y las ideas que resuelven problemas reales.</p><p>Estoy construyendo mi camino como emprendedor tecnológico mientras desarrollo productos propios, participo en proyectos creativos y comparto conocimiento.</p>",
     "img": "assets/img/perfil.jpg"
   },
-  "skills": {
-    "lenguajes_programacion": ["JavaScript", "Python", "Java", "Node.js"],
+  "skillscompuestos": {
     "frameworks_librerias": {
       "javascript": ["React", "Express", "Next.js (aprendiendo)"],
       "python": ["Pytest"],
@@ -14,38 +13,26 @@
     "bases_datos": {
       "relacionales": ["MySQL", "PostgreSQL", "SQL Server"],
       "clave_valor": ["Redis"],
-      "otros": ["Supabase"],
-      "habilidades": [
-        "Stored Procedures",
-        "Consultas avanzadas",
-        "Modelado de datos"
-      ]
+      "otros": ["Supabase"]
     },
     "desarrollo_web": {
       "frontend": ["HTML", "CSS", "JavaScript", "React"],
       "backend": ["Node.js", "Express", "Java (Spring básico)", "Python"],
       "apis": ["REST", "GraphQL", "WebSockets"]
-    },
-    "sistemas_operativos": ["Windows", "Linux"],
-    "versionamiento": {
-      "sistemas": ["Git"],
-      "plataformas": ["GitHub"]
-    },
+    }
+  },
+  "skills": {
+    "lenguajes_programacion": ["JavaScript", "Python", "Java", "Node.js"],
+    "versionamiento": ["Git"],
     "contenedores": ["Docker", "Docker Compose"],
-    "despliegue": ["Docker", "Vercel"],
     "infraestructura_nube": ["AWS", "Google Cloud Platform (GCP)"],
-    "CI_CD": ["GitHub Actions"],
-    "protocolos": ["SSH", "HTTP", "WebSockets"],
-    "herramientas": ["Postman", "Supabase", "Pinecone", "Cursor", "Windsurf"],
-    "inteligencia_artificial": {
-      "tecnologías": ["RAG", "Embeddings"],
-      "conocimientos": [
-        "Entrenamiento básico de modelos",
-        "Integración de IA en aplicaciones"
-      ]
-    },
-    "metodologias": ["Scrum"],
-    "otros_conocimientos": [
+    "inteligencia_artificial": [
+      "RAG",
+      "Embeddings",
+      "Entrenamiento básico de modelos",
+      "Integración de IA en aplicaciones"
+    ],
+    "otros": [
       "Automatización con n8n",
       "Uso de terminal Unix/Linux",
       "Análisis y depuración de código",
