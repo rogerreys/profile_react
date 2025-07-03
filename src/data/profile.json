@@ -114,22 +114,18 @@
     "title": "Contactame",
     "linkedin": {
       "link": "https://www.linkedin.com/in/rogerreys/",
-      "img": "asset/img/linkedIn.png",
-      "nickname": "//rogerreys"
+      "nickname": "/rogerreys"
     },
     "github": {
       "link": "https://github.com/rogerreys",
-      "img": "asset/img/github.png",
-      "nickname": "//rogerreys"
+      "nickname": "/rogerreys"
     },
     "gmail": {
-      "link": "url",
-      "img": "asset/img/gmail.png",
-      "nickname": "r_reys"
+      "link": "https://mail.google.com/mail/?view=cm&fs=1&to=roger.ry97m@gmail.com",
+      "nickname": "roger.ry97m@gmail.com"
     },
     "twitter": {
       "link": "https://twitter.com/roger_reys",
-      "img": "asset/img/twitter.png",
       "nickname": "roger_reys"
     }
   }
