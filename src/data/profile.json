@@ -1,0 +1,86 @@
+{
+  "aboutMe": {
+    "title": "Acerca de mi",
+    "description": "<p>¡Hola! Soy Roger Reyes, un apasionado desarrollador en constante crecimiento y siempre en busca de nuevos desafíos. Mi objetivo principal es utilizar mis habilidades para desarrollar proyectos innovadores que resuelvan problemas y brinden soluciones efectivas.</p><p>Creo firmemente en el poder del trabajo en equipo y estoy entusiasmado por colaborar con otros profesionales para alcanzar metas comunes.</p>",
+    "img": "asset/img/perfil.jpg"
+  },
+  "skills": {
+    "lenguajes_programacion": ["JavaScript", "Python", "Java", "Node.js"],
+    "frameworks_librerias": {
+      "javascript": ["React", "Express", "Next.js (aprendiendo)"],
+      "python": ["Pytest"],
+      "java": ["JUnit Jupiter"]
+    },
+    "bases_datos": {
+      "relacionales": ["MySQL", "PostgreSQL", "SQL Server"],
+      "clave_valor": ["Redis"],
+      "otros": ["Supabase"],
+      "habilidades": [
+        "Stored Procedures",
+        "Consultas avanzadas",
+        "Modelado de datos"
+      ]
+    },
+    "desarrollo_web": {
+      "frontend": ["HTML", "CSS", "JavaScript", "React"],
+      "backend": ["Node.js", "Express", "Java (Spring básico)", "Python"],
+      "apis": ["REST", "GraphQL", "WebSockets"]
+    },
+    "sistemas_operativos": ["Windows", "Linux"],
+    "versionamiento": {
+      "sistemas": ["Git"],
+      "plataformas": ["GitHub"]
+    },
+    "contenedores": ["Docker", "Docker Compose"],
+    "despliegue": ["Docker", "Vercel"],
+    "infraestructura_nube": ["AWS", "Google Cloud Platform (GCP)"],
+    "CI_CD": ["GitHub Actions"],
+    "protocolos": ["SSH", "HTTP", "WebSockets"],
+    "herramientas": ["Postman", "Supabase", "Pinecone", "Cursor", "Windsurf"],
+    "inteligencia_artificial": {
+      "tecnologías": ["RAG", "Embeddings"],
+      "conocimientos": [
+        "Entrenamiento básico de modelos",
+        "Integración de IA en aplicaciones"
+      ]
+    },
+    "metodologias": ["Scrum"],
+    "otros_conocimientos": [
+      "Automatización con n8n",
+      "Uso de terminal Unix/Linux",
+      "Análisis y depuración de código",
+      "Diseño y despliegue de APIs"
+    ]
+  },
+  "project": {
+    "title": "Proyectos destacados",
+    "projects": []
+  },
+  "contact": {
+    "title": "Contactame",
+    "1": {
+      "link": "https://www.linkedin.com/in/rogerreys/",
+      "img": "asset/img/linkedIn.png",
+      "page": "linkedin",
+      "nickname": "\\rogerreys"
+    },
+    "2": {
+      "link": "https://github.com/rogerreys",
+      "img": "asset/img/github.png",
+      "page": "github",
+      "nickname": "\\rogerreys"
+    },
+    "3": {
+      "link": "url",
+      "img": "asset/img/gmail.png",
+      "page": "gmail",
+      "nickname": "r_reys"
+    },
+    "4": {
+      "link": "https://twitter.com/roger_reys",
+      "img": "asset/img/twitter.png",
+      "page": "twitter",
+      "nickname": "roger_reys"
+    }
+  }
+}
