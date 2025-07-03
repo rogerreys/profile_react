@@ -24,6 +24,22 @@
   margin: 0;
   padding: 0;
 }
+
+.nav-link {
+  color: #333;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: background 0.2s, color 0.2s;
+  font-weight: 500;
+}
+
+.nav-link.active {
+  background: rgb(97,218,251);
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(26,35,126,0.08);
+}
 .nav-links a {
   color: #fff;
   text-decoration: none;

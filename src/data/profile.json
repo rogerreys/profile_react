@@ -1,8 +1,8 @@
 {
   "aboutMe": {
     "title": "Acerca de mi",
-    "description": "<p>¡Hola! Soy Roger Reyes, un apasionado desarrollador en constante crecimiento y siempre en busca de nuevos desafíos. Mi objetivo principal es utilizar mis habilidades para desarrollar proyectos innovadores que resuelvan problemas y brinden soluciones efectivas.</p><p>Creo firmemente en el poder del trabajo en equipo y estoy entusiasmado por colaborar con otros profesionales para alcanzar metas comunes.</p>",
-    "img": "asset/img/perfil.jpg"
+    "description": "<p>¡Hola! Soy <strong>Roger Steven Reyes Medina</strong>, un apasionado desarrollador fullstack de Quito, Ecuador. Me encanta aprender y explorar nuevas tecnologías para crear productos digitales que generen impacto.</p><p>Mi enfoque está en el desarrollo de aplicaciones SaaS, automatización de procesos y soluciones web personalizadas. Creo en el poder de la colaboración, el código limpio y las ideas que resuelven problemas reales.</p><p>Estoy construyendo mi camino como emprendedor tecnológico mientras desarrollo productos propios, participo en proyectos creativos y comparto conocimiento.</p>",
+    "img": "assets/img/perfil.jpg"
   },
   "skills": {
     "lenguajes_programacion": ["JavaScript", "Python", "Java", "Node.js"],
@@ -58,28 +58,24 @@
   },
   "contact": {
     "title": "Contactame",
-    "1": {
+    "linkedin": {
       "link": "https://www.linkedin.com/in/rogerreys/",
       "img": "asset/img/linkedIn.png",
-      "page": "linkedin",
-      "nickname": "\\rogerreys"
+      "nickname": "//rogerreys"
     },
-    "2": {
+    "github": {
       "link": "https://github.com/rogerreys",
       "img": "asset/img/github.png",
-      "page": "github",
-      "nickname": "\\rogerreys"
+      "nickname": "//rogerreys"
     },
-    "3": {
+    "gmail": {
       "link": "url",
       "img": "asset/img/gmail.png",
-      "page": "gmail",
       "nickname": "r_reys"
     },
-    "4": {
+    "twitter": {
       "link": "https://twitter.com/roger_reys",
       "img": "asset/img/twitter.png",
-      "page": "twitter",
       "nickname": "roger_reys"
     }
   }
