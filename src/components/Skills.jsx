@@ -36,7 +36,9 @@ function Skills() {
 
   return (
     <section className="max-w-6xl mx-auto my-16 px-4">
-      <h1 className="text-4xl font-extrabold text-white mb-10 text-center drop-shadow-lg">Conocimientos</h1>
+      <h2 className="text-center text-4xl md:text-5xl font-bold text-white mb-4">
+        Mis <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-amber-300">Conocimientos</span>
+      </h2>
       
       {/* Skills Compuestos Section */}
       <div className="mb-16 space-y-6">

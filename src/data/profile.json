@@ -77,7 +77,38 @@
   },
   "project": {
     "title": "Proyectos destacados",
-    "projects": []
+    "list_projects": [
+      {
+        "title": "Proyecto 1",
+        "description": "Descripción del proyecto 1",
+        "link": "https://github.com/rogerreys/proyecto1"
+      },
+      {
+        "title": "Proyecto 2",
+        "description": "Descripción del proyecto 2",
+        "link": "https://github.com/rogerreys/proyecto2"
+      },
+      {
+        "title": "Proyecto 3",
+        "description": "Descripción del proyecto 3",
+        "link": "https://github.com/rogerreys/proyecto3"
+      },
+      {
+        "title": "Proyecto A",
+        "description": "Descripción del proyecto A",
+        "link": "https://github.com/rogerreys/proyectoA"
+      },
+      {
+        "title": "Proyecto B",
+        "description": "Descripción del proyecto B",
+        "link": "https://github.com/rogerreys/proyectoB"
+      },
+      {
+        "title": "Proyecto C",
+        "description": "Descripción del proyecto C",
+        "link": "https://github.com/rogerreys/proyectoC"
+      }
+    ]
   },
   "contact": {
     "title": "Contactame",

@@ -79,7 +79,9 @@ function About() {
 
   return (
     <section className="max-w-10xl mx-auto my-16 px-4">
-      <h1 className="text-4xl font-extrabold text-white mb-10 text-center drop-shadow-lg">Sobre Mí</h1>
+      <h2 className="text-center text-4xl md:text-5xl font-bold text-white mb-4">
+      Sobre <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-amber-300">Mí</span>
+      </h2>
 
       <div className="bg-gradient-to-br from-zinc-900 to-zinc-800 rounded-2xl shadow-xl overflow-hidden">
         <div className="flex flex-col md:flex-row">
