@@ -180,7 +180,7 @@ const Home = () => {
               { icon: <FaGithub />, link: 'https://github.com/rogerreys', label: 'GitHub' },
               { icon: <FaLinkedin />, link: 'https://linkedin.com/in/rogerreys', label: 'LinkedIn' },
               { icon: <FaTwitter />, link: 'https://twitter.com/roger_reys', label: 'Twitter' },
-              { icon: <FaEnvelope />, link: 'mailto:r_reys@gmail.com', label: 'Email' }
+              { icon: <FaEnvelope />, link: 'https://mail.google.com/mail/?view=cm&fs=1&to=roger.ry97m@gmail.com', label: 'Email' }
             ].map((social, index) => (
               <a
                 key={index}

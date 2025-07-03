@@ -7,35 +7,41 @@
       "quickInfo": [
         { "label": "Ubicación", "value": "Quito, Ecuador" },
         { "label": "Edad", "value": "1997" },
-        { "label": "Lenguaje", "value": "Español (Nativo), Ingles(B1), Frances(A2)" }
+        { "label": "Lenguaje", "value": "Español (Nativo), Ingles(B1), Frances(A1)" }
       ],
       "experience": [
         {
-          "role": "Desarrollador Fullstack",
-          "company": "Empresa de Software",
-          "period": "2022 - Presente",
-          "description": "Desarrollo de aplicaciones web y móviles utilizando React y Node.js. Implementación de soluciones SaaS y automatización de procesos con n8n."
+          "role": "Desarrollador Junior",
+          "company": "Clear Minds Consultores CIA. LTDA",
+          "period": "2021 - 2022",
+          "description": "Desarrollo de pruebas unitarias y automatizadas en java para core financiero."
         },
         {
-          "role": "Desarrollador Junior",
-          "company": "Empresa de Automatización",
-          "period": "2021 - 2022",
-          "description": "Desarrollo de herramientas de automatización con n8n y creación de soluciones web personalizadas."
+          "role": "Desarrollador Fullstack",
+          "company": "Cobistopaz",
+          "period": "2022 - Actualidad",
+          "description": "Desarrollo de programas en java y javascript desplegados en aws. Y administracion de base de datos mysql."
+        },
+        {
+          "role": "Tester de modelos",
+          "company": "Anyone AI",
+          "period": "2023 - 2024",
+          "description": "Pruebas de modelos de IA con python y java."
         }
       ],
       "education": [
         {
-          "degree": "Licenciatura en Ingeniería Informática",
-          "institution": "Universidad de Quito",
-          "period": "2018 - 2022",
-          "description": "Estudios en Ingeniería Informática con enfoque en desarrollo web y automatización."
+          "degree": "Ingeniería en Telecomunicaciones y electrónica",
+          "institution": "Escuela Politécnica Nacional",
+          "period": "2017 - 2021",
+          "description": "Estudios en telecomunicaciones y electrónica."
         }
       ],
       "social": {
         "github": "https://github.com/rogerreys",
         "linkedin": "https://www.linkedin.com/in/rogerreys/",
         "twitter": "https://twitter.com/roger_reys",
-        "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=r_reys@gmail.com"
+        "gmail": "https://mail.google.com/mail/?view=cm&fs=1&to=roger.ry97m@gmail.com"
       }
     },
     "img": "assets/img/perfil.jpg"
@@ -79,35 +85,20 @@
     "title": "Proyectos destacados",
     "list_projects": [
       {
-        "title": "Proyecto 1",
-        "description": "Descripción del proyecto 1",
-        "link": "https://github.com/rogerreys/proyecto1"
+        "title": "Chatbot RAG",
+        "description": "Chatbot con estructura RAG",
+        "link": "https://github.com/Julian-Decurnex/financial-advisor-chatbot/tree/development"
       },
       {
-        "title": "Proyecto 2",
-        "description": "Descripción del proyecto 2",
-        "link": "https://github.com/rogerreys/proyecto2"
+        "title": "Bloc tecnologias",
+        "description": "Bloc sobre tecnologias",
+        "link": "https://github.com/rogerreys/contenedor_bytehube"
       },
       {
-        "title": "Proyecto 3",
-        "description": "Descripción del proyecto 3",
-        "link": "https://github.com/rogerreys/proyecto3"
-      },
-      {
-        "title": "Proyecto A",
-        "description": "Descripción del proyecto A",
-        "link": "https://github.com/rogerreys/proyectoA"
-      },
-      {
-        "title": "Proyecto B",
-        "description": "Descripción del proyecto B",
-        "link": "https://github.com/rogerreys/proyectoB"
-      },
-      {
-        "title": "Proyecto C",
-        "description": "Descripción del proyecto C",
-        "link": "https://github.com/rogerreys/proyectoC"
-      }
+        "title": "Snake",
+        "description": "Snake | Python",
+        "link": "https://github.com/rogerreys/SnakePython"
+      }      
     ]
   },
   "contact": {

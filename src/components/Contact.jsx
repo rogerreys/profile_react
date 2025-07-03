@@ -99,7 +99,7 @@ function Contact() {
       >
         <p className="text-zinc-400 mb-4">O envíame un correo directamente a</p>
         <a 
-          href={gmail.link} 
+          href={gmail.link} target="_blank" rel="noopener noreferrer"
           className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-pink-600 to-amber-500 text-white rounded-full font-medium hover:shadow-lg hover:shadow-pink-500/20 transition-all duration-300 group"
         >
           <FiMail className="mr-2 group-hover:animate-bounce" />

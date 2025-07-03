@@ -106,16 +106,13 @@ function About() {
               <a href={details.social.linkedin} target="_blank" rel="noopener noreferrer" className="text-zinc-300 hover:text-white transition-colors">
                 <FaLinkedin className="text-2xl" />
               </a>
-              <a href={details.social.leetcode} target="_blank" rel="noopener noreferrer" className="text-zinc-300 hover:text-white transition-colors">
+              <a href={details.social.twitter} target="_blank" rel="noopener noreferrer" className="text-zinc-300 hover:text-white transition-colors">
                 <FaSquareXTwitter className="text-2xl" />
-              </a>
-              <a href={details.social.frontendMentor} target="_blank" rel="noopener noreferrer" className="text-zinc-300 hover:text-white transition-colors">
-                <SiFrontendmentor className="text-2xl" />
               </a>
             </div>
 
             <a
-              href={`mailto:${details.social.gmail}`}
+              href={details.social.gmail} target="_blank" rel="noopener noreferrer"
               className="mt-6 px-6 py-2 bg-pink-800/1 text-white rounded-full border border-pink-700 hover:bg-pink-700/70 transition-all flex items-center gap-2"
             >
               <FaEnvelope /> Contáctame
